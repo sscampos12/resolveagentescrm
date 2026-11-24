@@ -1,0 +1,7 @@
+project_id = "resolve-agentes"
+
+[functions.admin-create-user]
+verify_jwt = true
+
+[functions.uazapi-instances]
+verify_jwt = true

@@ -1,0 +1,13 @@
+{
+  "projectId": "73163517",
+  "functions": {
+    "admin-create-user": {
+      "hasChanged": false,
+      "hash": "8166efb194b3b9c955237b08b5a29556a803789c050adbb55534d3b149d82abc"
+    },
+    "uazapi-instances": {
+      "hasChanged": false,
+      "hash": "89fb193192cc0e7ef098d88145e2caea7dd3a0818167ec4a849158f23f9d6b5b"
+    }
+  }
+}
